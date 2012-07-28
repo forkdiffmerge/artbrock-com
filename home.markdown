@@ -58,7 +58,7 @@ here][9].
 
 ----
 
-This page was forked with permission from [http://www.artbrock.com/][10]
+This page was forked with permission from [http://www.artbrock.com/home][10]
 
 ----
 
@@ -75,5 +75,5 @@ This page was forked with permission from [http://www.artbrock.com/][10]
 [7]: http://www.MetaCurrency.org
 [8]: http://geekgene.com
 [9]: http://www.artbrock.com/contact
-[10]: http://www.artbrock.com/
+[10]: http://www.artbrock.com/home
 [11]: http://creativecommons.org/licenses/by-sa/2.0/
